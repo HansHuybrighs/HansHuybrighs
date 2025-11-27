@@ -13,10 +13,10 @@
 - **Energetic ions at Io**: With [@scervantes90](https://github.com/scervantes90) 
 - **[Plume erosion on Europa](https://github.com/marinacsado/plume_deposit)**:  With [@marinacsado](https://github.com/marinacsado)
 
-#### :speech_balloon: Contact me
+### :handshake: Collaborations
+All collaborations requests are welcomed! I'm happy to get you started with my ion tracing code.
+
+### :speech_balloon: Contact me
 :email: hans@cp.dias.ie
 
 :office: [@DIASPlanetary](https://github.com/DIASPlanetary)
-
-### :handshake: Support
-All collaborations, :ant: issues or :zap: feature requests are welcomed!
