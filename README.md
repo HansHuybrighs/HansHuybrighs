@@ -1,6 +1,6 @@
 ### Hi! :wave: I'm Hans
 
-#### About me :satellite: :artificial_satellite:
+### About me :satellite: :artificial_satellite:
 
 :rocket: I'm a Space Scientist working in Dublin, Ireland
 
