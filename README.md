@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi! :wave: I'm Hans
 
-<!--
-**HansHuybrighs/HansHuybrighs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me :satellite: :artificial_satellite:
 
-Here are some ideas to get you started:
+:rocket: I'm a Space Scientist working in Dublin, Ireland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:rocket: I study the moons of Jupiter
+
+:rocket: My research is on the cross section of spacecraft data and scientific simulations
+
+#### :speech_balloon: Contact me
+:email: hans@cp.dias.ie
+
+:office: [@DIASPlanetary](https://github.com/DIASPlanetary)
+
+### :handshake: Support
+All collaborations, :ant: issues or :zap: feature requests are welcomed!
