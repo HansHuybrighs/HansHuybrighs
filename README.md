@@ -10,7 +10,7 @@
 
 ### 📚 Current & Past Projects:-
 - **[Simulations of energetic ions at Europa](https://github.com/HansHuybrighs/tracing_pj45_release)**: I recently released my particle tracing code that simulates energetic ion measuremens made with the JEDI instrument during Juno's flyby of Europa. I'm happy to collaborate on this code.
-- **[Energetic ions at Io]**: With [@scervantes90](https://github.com/scervantes90) 
+- **Energetic ions at Io**: With [@scervantes90](https://github.com/scervantes90) 
 - **[Plume erosion on Europa](https://github.com/marinacsado/plume_deposit)**:  With [@marinacsado](https://github.com/marinacsado)
 
 #### :speech_balloon: Contact me
